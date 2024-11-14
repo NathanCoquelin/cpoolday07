@@ -1,0 +1,12 @@
+*.out
+main.c
+lib/my/libmy.a
+lib/my/*.o
+task04/*.out
+task04/*.o
+task04/task04
+task05/*.out
+task05/*.out
+task05/*.o
+task06/*out
+task06/*.o
